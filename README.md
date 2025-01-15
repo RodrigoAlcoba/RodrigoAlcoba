@@ -15,12 +15,11 @@
 - Lenguajes: **Java**, **JavaScript**, **SQL**.
 - Frameworks y librerías: **React**, **Bootstrap**.
 - Herramientas: **Git**, **CSS**, **Testing**.
-- Otros: **Corel**, **Photoshop**.
 
 ### Contacto:
 - 📧 **Correo:** rodrigoalcoba4566@gmail.com  
 - 📱 **Teléfono:** 093 356 877  
 - 📍 **Ubicación:** Montevideo  
-- 💻 **GitHub:** [RodrigoAlcoba](https://github.com/RodrigoAlcoba?tab=repositories)  
+- 💻 **Linkedin:** [RodrigoAlcoba](https://www.linkedin.com/in/rodrigo-alcoba-639303226/)
 
 ¡No dudes en contactarme para proyectos, colaboraciones o simplemente para charlar sobre tecnología! 😊
