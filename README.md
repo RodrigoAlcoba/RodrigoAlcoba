@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**RodrigoAlcoba/RodrigoAlcoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola 👋
 
-Here are some ideas to get you started:
+### Sobre mí:
+- 🎓 Estudiante de Licenciatura en Tecnologías de la Información en [UTEC](https://utec.edu.uy) (marzo 2023 - Presente).
+- 💻 Apasionado por el desarrollo de software y la tecnología.
+- 🌱 Actualmente aprendiendo y trabajando con **Java**, **JavaScript**, **React**, **HTML**, **CSS**, **SQL** y más.
+- 🧪 Interesado en metodologías ágiles, testing, desarrollo de software y bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiencia y Proyectos:
+- 🏢 **Ceibal - Jóvenes a Programar** (marzo 2022 - diciembre 2022): Formación en desarrollo Front-end.
+- 💼 **Peón de depósito, Bonarel S.A** (marzo 2022 - marzo 2023): Armado de pedidos y control de stock.
+
+### Habilidades Técnicas:
+- Lenguajes: **Java**, **JavaScript**, **SQL**.
+- Frameworks y librerías: **React**, **Bootstrap**.
+- Herramientas: **Git**, **CSS**, **Testing**.
+- Otros: **Corel**, **Photoshop**.
+
+### Contacto:
+- 📧 **Correo:** rodrigoalcoba4566@gmail.com  
+- 📱 **Teléfono:** 093 356 877  
+- 📍 **Ubicación:** Montevideo  
+- 💻 **GitHub:** [RodrigoAlcoba](https://github.com/RodrigoAlcoba?tab=repositories)  
+
+¡No dudes en contactarme para proyectos, colaboraciones o simplemente para charlar sobre tecnología! 😊
