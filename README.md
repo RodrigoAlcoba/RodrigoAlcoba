@@ -9,7 +9,6 @@
 
 ### Experiencia y Proyectos:
 - 🏢 **Ceibal - Jóvenes a Programar** (marzo 2022 - diciembre 2022): Formación en desarrollo Front-end.
-- 💼 **Peón de depósito, Bonarel S.A** (marzo 2022 - marzo 2023): Armado de pedidos y control de stock.
 
 ### Habilidades Técnicas:
 - Lenguajes: **Java**, **JavaScript**, **SQL**.
